@@ -13,3 +13,14 @@ Something interesting here is to write the Redis command in Python. <br>
 After running the .py file, it will return a fuction list. (See the photo below) <br>
 You can always use "!help" to call the list.
 <img width="543" alt="!help" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/16027201-5c6e-4c81-a25f-1f9ce1dcb78b">
+
+## Part 3: Demonstration of the use of the chatbot
+
+I use the **"MONITOR"** command in Redis to see the interaction in real-time. <br>
+<img width="186" alt="Monitor OK" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/addcd601-1ff7-499c-9f97-5e8ab117b43c">
+
+**In this demonstration, I will attach both Python outputs and "Monitor" outputs.**
+
+**1. Add User**
+The first input of the bot is the personal information, asking for name, age, gender, and location.
+

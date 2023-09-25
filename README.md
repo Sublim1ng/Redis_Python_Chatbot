@@ -36,10 +36,25 @@ The **!weather <city>** command retrive the weather condition of the city. An ex
 <img width="250" alt="!weather nashville" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/33595636-5e48-4659-98c5-2a1234e6130d"> <br>
 <img width="526" alt="monitor weather" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/1e22a1cb-987e-4d9f-b4c4-c06807738aab">
 
-**4. Join and Leave** <br>
+**4. Whoami** <br>
+The **!whoami** command gets all the personal information about the user.
+<img width="505" alt="whoami" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/20ce4888-508d-4f2a-9377-d060a766dd2e">
+<img width="444" alt="monitor whoami" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/3dbc061e-019d-4b4c-9ca3-a2be557ef794">
+
+**5. Join and Leave** <br>
 The **!join** and **!leave** commands allow you to subscribe or unsubscribe a channel in Redis.
-<img width="234" alt="join and leave " src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/8492b589-b44d-4a00-9a1a-94ff3a2b3fc3">
+<img width="234" alt="join and leave " src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/8492b589-b44d-4a00-9a1a-94ff3a2b3fc3"> <br>
 <img width="435" alt="monitor join and leave" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/cfd7c946-b36d-449f-911a-d5aac2b04442">
+
+**6. listen and send** <br> 
+The **!listen"** and **"send"** commands allow you to read or send messages in a specific Redis channel. <br>
+*listen*
+<img width="453" alt="input listen" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/3f27ff43-98dd-4a1c-a5b9-98e29bde16bc"> <br>
+<img width="326" alt="!listen" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/a73b7334-5acd-4971-a70b-df0eb2293c53">
+<img width="558" alt="monitor send" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/b19099ca-9139-4d16-b66f-93866198eda7">
+*send*
+<img width="441" alt="send" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/cc528b05-4b4a-4732-b850-0576ae6662c3">
+<img width="558" alt="monitor send" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/1b45a2cf-4762-480f-abc7-57e1960107a2">
 
 
 

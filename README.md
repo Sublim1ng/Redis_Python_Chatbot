@@ -36,6 +36,11 @@ The **!weather <city>** command retrive the weather condition of the city. An ex
 <img width="250" alt="!weather nashville" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/33595636-5e48-4659-98c5-2a1234e6130d"> <br>
 <img width="526" alt="monitor weather" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/1e22a1cb-987e-4d9f-b4c4-c06807738aab">
 
+**4. Join and Leave** <br>
+The **!join** and **!leave** commands allow you to subscribe or unsubscribe a channel in Redis.
+<img width="234" alt="join and leave " src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/8492b589-b44d-4a00-9a1a-94ff3a2b3fc3">
+<img width="435" alt="monitor join and leave" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/cfd7c946-b36d-449f-911a-d5aac2b04442">
+
 
 
 

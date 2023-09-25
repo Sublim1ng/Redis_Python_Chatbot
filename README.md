@@ -23,7 +23,7 @@ I use the **"MONITOR"** command in Redis to see the interaction in real-time. <b
 
 **1. Add User** <br>
 The first input of the bot is personal information, asking for name, age, gender, and location.
-<img width="472" alt="add user" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/144d53f2-e6de-42cc-99a6-b01b2e962283">
+<img width="498" alt="Screenshot 2023-09-25 at 2 02 13 PM" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/7a2334f8-d745-43ed-a467-e2478ae98bee"> <br>
 <img width="573" alt="Monitor Add user" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/25122296-a5b8-4882-9eb0-321bd1ff788e">
 
 **2. Fun Fact** <br>

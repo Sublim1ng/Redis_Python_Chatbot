@@ -48,8 +48,9 @@ The **!join** and **!leave** commands allow you to subscribe or unsubscribe a ch
 
 **6. listen and send** <br> 
 The **!listen"** and **"send"** commands allow you to read or send messages in a specific Redis channel. <br>
-*listen*
+Here I publish a sentence in the "sports" channel to see how the "!listen" works. <br>
 <img width="453" alt="input listen" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/3f27ff43-98dd-4a1c-a5b9-98e29bde16bc"> <br>
+*listen* <br>
 <img width="326" alt="!listen" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/a73b7334-5acd-4971-a70b-df0eb2293c53">
 <img width="558" alt="monitor send" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/b19099ca-9139-4d16-b66f-93866198eda7"> <br>
 *send* <br>

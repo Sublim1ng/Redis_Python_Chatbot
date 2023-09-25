@@ -51,7 +51,7 @@ The **!listen"** and **"send"** commands allow you to read or send messages in a
 I publish a sentence in the "sports" channel to see how the "!listen" works. <br>
 <img width="453" alt="input listen" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/3f27ff43-98dd-4a1c-a5b9-98e29bde16bc"> <br>
 *listen* <br>
-<img width="326" alt="!listen" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/ad45412a-ee5d-4cf1-8ae7-25f29a7febde">
+<img width="326" alt="!listen" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/ad45412a-ee5d-4cf1-8ae7-25f29a7febde"> <br>
 *send* <br>
 <img width="441" alt="send" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/cc528b05-4b4a-4732-b850-0576ae6662c3">
 <img width="558" alt="monitor send" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/1b45a2cf-4762-480f-abc7-57e1960107a2">

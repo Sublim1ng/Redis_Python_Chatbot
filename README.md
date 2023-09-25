@@ -33,7 +33,7 @@ The **!fact** command retrive a random fun fact stored in the database. We can e
 
 **3. Weather** <br>
 The **!weather <city>** command retrive the weather condition of the city. An example input is "!weather nashville".
-<img width="250" alt="!weather nashville" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/33595636-5e48-4659-98c5-2a1234e6130d">
+<img width="250" alt="!weather nashville" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/33595636-5e48-4659-98c5-2a1234e6130d"> <br>
 <img width="526" alt="monitor weather" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/1e22a1cb-987e-4d9f-b4c4-c06807738aab">
 
 

@@ -46,7 +46,7 @@ The **!join** and **!leave** commands allow you to subscribe or unsubscribe a ch
 <img width="234" alt="join and leave " src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/8492b589-b44d-4a00-9a1a-94ff3a2b3fc3"> <br>
 <img width="435" alt="monitor join and leave" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/cfd7c946-b36d-449f-911a-d5aac2b04442">
 
-**6. listen and send** <br> 
+**6. listen and Send** <br> 
 The **!listen"** and **"send"** commands allow you to read or send messages in a specific Redis channel. <br>
 Here I publish a sentence in the "sports" channel to see how the "!listen" works. <br>
 <img width="453" alt="input listen" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/3f27ff43-98dd-4a1c-a5b9-98e29bde16bc"> <br>
@@ -56,6 +56,26 @@ Here I publish a sentence in the "sports" channel to see how the "!listen" works
 *send* <br>
 <img width="441" alt="send" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/cc528b05-4b4a-4732-b850-0576ae6662c3">
 <img width="558" alt="monitor send" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/1b45a2cf-4762-480f-abc7-57e1960107a2">
+
+**7. Direct Message** <br>
+The **!dm** command allows the user to send a private message to someone else. <br>
+<img width="315" alt="!dm" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/3c9be146-5594-4060-9122-2fbe664dfe4b"> <br>
+<img width="564" alt="monitor dm" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/086ec85b-695e-453d-9f67-a5309485ec7b">
+
+**8. Keys** <br>
+The **!keys** command helps to list all the existing keys for checking. <br>
+<img width="157" alt="!keys" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/d3c7cd23-6759-4e97-9ae4-e0eb457ff078"> <br>
+<img width="352" alt="monitor keys" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/991ac8db-afbb-4cdf-a87d-0c6f2b66f569">
+
+**9. EXIT and Non-existing commands**
+**EXIT** allows users to quit the chat bot. If user type in some unknown command, the bot will still generate a response and ask for a new input again. <br>
+<img width="166" alt="other commands" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/94e4507c-a14a-40cd-949e-1b3fcd0191e9">
+
+What I have mentioned above is all about my mini chat bot. I will upgrade and make more progress in the future!
+
+
+
+
 
 
 

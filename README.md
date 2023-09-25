@@ -10,6 +10,7 @@
 
 I define a chatbot class in the .py file with all the functions inside. <br> 
 Something interesting here is to write the Redis command in Python. <br>
+Before running the .py file, we need to **pip install redis**. <br>
 After running the .py file, it will return a function list. (See the photo below) <br>
 You can always use "!help" to call the list. <br>
 <img width="543" alt="!help" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/16027201-5c6e-4c81-a25f-1f9ce1dcb78b">

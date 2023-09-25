@@ -21,6 +21,37 @@ I use the **"MONITOR"** command in Redis to see the interaction in real-time. <b
 
 **In this demonstration, I will attach both Python outputs and "Monitor" outputs.**
 
-**1. Add User**
+**1. Add User** <br>
 The first input of the bot is the personal information, asking for name, age, gender, and location.
+<img width="472" alt="add user" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/144d53f2-e6de-42cc-99a6-b01b2e962283">
+<img width="573" alt="Monitor Add user" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/25122296-a5b8-4882-9eb0-321bd1ff788e">
+
+**2. Fun Fact** <br>
+The **!fact** command retrive a random fun fact stored in the database. We can edit the database at any time. <br>
+<img width="567" alt="!fact" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/667cdd5d-886d-4066-a9c6-c5761661290a">
+<img width="509" alt="monitor fact" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/eb6e2d82-dc6b-496c-9b91-a2d6d46b6942">
+
+**3. Weather** <br>
+The **!weather <city>** command retrive the weather condition of the city. An example input is "!weather nashville".
+<img width="250" alt="!weather nashville" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/33595636-5e48-4659-98c5-2a1234e6130d">
+<img width="526" alt="monitor weather" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/1e22a1cb-987e-4d9f-b4c4-c06807738aab">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

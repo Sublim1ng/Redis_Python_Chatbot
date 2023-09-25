@@ -1,6 +1,6 @@
 # Redis_Python_Chatbot
 ## Part 1: Build the Chatbot
-1. I created a .yml file to create both Redis and Python containers and the connection between them.
+1. I structure a .yml file to create both Redis and Python containers and the connection between them.
 2. run docker-compose up in the terminal and exec redis-cli and python bash. (See the screenshots below.)
 <img width="573" alt="compose up" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/07e4c45a-9145-4050-a130-75820432e7ba">
 <img width="569" alt="exec redis" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/fcfaa445-8462-4c09-9a5e-ab8be3f766cd">

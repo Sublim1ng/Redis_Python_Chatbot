@@ -6,9 +6,10 @@
 <img width="569" alt="exec redis" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/fcfaa445-8462-4c09-9a5e-ab8be3f766cd">
 <img width="572" alt="exec python" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/98e98f4e-bb6f-4a25-a2fe-f754ca22401d">
 
-## Part 2: Write the Chatbot.py file 
+## Part 2: Write the run Chatbot.py file 
 
 I define a chatbot class with the .py file with all the functions inside. <br> 
 Something interesting here is to write the Redis command in Python. <br>
-The photo below is the function list. You can always use "!help" to call the list.
+After running the .py file, it will return a fuction list. (See the photo below) <br>
+You can always use "!help" to call the list.
 <img width="543" alt="!help" src="https://github.com/Sublim1ng/Redis_Python_Chatbot/assets/111295538/16027201-5c6e-4c81-a25f-1f9ce1dcb78b">

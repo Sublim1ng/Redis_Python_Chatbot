@@ -9,7 +9,6 @@
 ## Part 2: Write and run Chatbot.py file 
 
 I define a chatbot class in the .py file with all the functions inside. <br> 
-Something interesting here is to write the Redis command in Python. <br>
 Before running the .py file, we need to **pip install redis**. <br>
 After running the .py file, it will return a function list. (See the photo below) <br>
 You can always use "!help" to call the list. <br>
